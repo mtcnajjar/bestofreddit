@@ -86,7 +86,7 @@ $input-error-message-font-color-alt: #333 !default;
   color: $input-font-color;
   display: block;
   font-size: $input-font-size;
-  margin: 0 0 $form-spacing 0;
+  margin: 0 0 0 0;
   padding: $form-spacing / 2;
   height: emCalc(13px) + ($form-spacing * 1.5);
   width: 100%;

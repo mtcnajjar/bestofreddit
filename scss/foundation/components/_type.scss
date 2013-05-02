@@ -8,7 +8,7 @@ $header-font-weight:                   900 !default;
 $header-font-style:                    normal !default;
 $header-font-color:                    #222 !default;
 $header-line-height:                   1.4 !default;
-$header-top-margin:                    1.2em !default;
+$header-top-margin:                    1em !default;
 $header-bottom-margin:                 0em !default;
 $header-text-rendering:                optimizeLegibility !default;
 
@@ -25,7 +25,7 @@ $subheader-line-height:                1.4 !default;
 $subheader-font-color:                 lighten($header-font-color, 30%) !default;
 $subheader-font-weight:                300 !default;
 $subheader-top-margin:                 .2em !default;
-$subheader-bottom-margin:              2.5em !default;
+$subheader-bottom-margin:              3.5em !default;
 
 // A general <small> styling
 $small-font-size:                      60% !default;
